@@ -1,0 +1,11 @@
+langchain-groq
+langchain-mcp-adapters
+mcp
+langgraph
+streamlit
+langchain-groq
+langchain-mcp-adapters
+langgraph
+mcp
+python-dotenv
+httpx
